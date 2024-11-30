@@ -1,0 +1,37 @@
+[build]
+  functions = "functions"
+
+[[redirects]]
+  from = "/abc to isl"
+  to = "/abc to isl/isl.html"
+  status = 200
+
+[[redirects]]
+  from = "/t to isl"
+  to = "/t to isl/index1.html"
+  status = 200
+
+[[redirects]]
+  from = "/login"
+  to = "/login/login.html"
+  status = 200
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact/contact.html"
+  status = 200
+
+[[redirects]]
+  from = "/folder4"
+  to = "/folder4/file4.html"
+  status = 200
+
+[[redirects]]
+  from = "/folder5"
+  to = "/folder5/file5.html"
+status = 200
+
+[[redirects]]
+  from = "/folder6"
+  to = "/folder6/file6.html"
+status = 200
